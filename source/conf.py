@@ -18,6 +18,8 @@
 
 import sphinx_rtd_theme
 
+import PIL
+
 # -- Project information -----------------------------------------------------
 
 project = 'Routinator'
