@@ -211,6 +211,5 @@ def setup(app):
                         objname='module sub-command',
                         indextemplate='pair: %s; module sub-command',
                         parse_node=parse_cmd_args_node)
-    app.add_js_file('js/script.js')
     app.add_css_file('css/dark.css')
     app.add_css_file('css/light.css')
