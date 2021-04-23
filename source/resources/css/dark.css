@@ -1846,9 +1846,6 @@
   ::placeholder {
       opacity: 0.5 !important;
   }
-  a[href="https://coinmarketcap.com/"] > svg[width="94"][height="16"] > path {
-      fill: var(--darkreader-neutral-text) !important;
-  }
   #edge-translate-panel-body {
       color: var(--darkreader-neutral-text) !important;
   }
