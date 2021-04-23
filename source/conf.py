@@ -20,7 +20,7 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'Routinator'
+project = 'Routinator Test'
 copyright = '2018-2021, NLnet Labs'
 author = 'NLnet Labs (CC-BY 3.0)'
 
@@ -95,7 +95,7 @@ html_theme_options = {
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['../resources']
+html_static_path = ['resources']
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
